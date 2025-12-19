@@ -25,6 +25,10 @@ My current work spans the following areas:
 - Traffic signal control
 
 
+<img src='/images/UHM.png'>
+<img src='images/iTT Lab Logo_20250918.png'>
+<img src='images/TIM School.png'>
+
 <div class="about-images">
   <img src="images/UHM.png" alt="Xiaofeng Li" width="250" style="margin-right: 15px;">
   <img src="images/iTT Lab Logo_20250918.png" alt="Research in action" width="250" style="margin-right: 15px;">
