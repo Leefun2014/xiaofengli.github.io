@@ -28,7 +28,16 @@ My current work spans the following areas:
 <img src='/images/iTT Lab Logo_20250918.png'> 
 <img src='/images/TIM School.png'>
 
-<img src="{{ '/images/UHM.png' | relative_url }}" alt="Xiaofeng Li" width="250">
-<img src="{{ '/images/iTT Lab Logo_20250918.png' | relative_url }}" alt="Research in action" width="250">
-<img src="{{ '/images/TIM School.png' | relative_url }}" alt="Conference presentation" width="250">
+<div class="about-images">
+  <!-- First row: two images -->
+  <div style="display: flex; gap: 15px; margin-bottom: 15px;">
+    <img src="{{ '/images/UHM.png' | relative_url }}" alt="Xiaofeng Li" width="250">
+    <img src="{{ '/images/TIM School.png' | relative_url }}" alt="Research in action" width="250">
+  </div>
+
+  <!-- Second row: single image -->
+  <div>
+    <img src="{{ '/images/iTT Lab Logo_20250918.png' | relative_url }}" alt="TIM School" width="250">
+  </div>
+</div>"250">
 
