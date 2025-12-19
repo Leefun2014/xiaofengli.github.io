@@ -32,15 +32,23 @@ author_profile: true
 
 <div class="slideshow-container">
   <div class="slide">
-    <img src="{{ site.baseurl }}/images/itt/slide1.jpg" alt="ITT Lab activity 1">
+    <img src="{{ site.baseurl }}/images/itt/Slide1.jpg">
   </div>
 
   <div class="slide">
-    <img src="{{ site.baseurl }}/images/itt/slide2.jpg" alt="ITT Lab activity 2">
+    <img src="{{ site.baseurl }}/images/itt/Slide2.jpg">
   </div>
 
   <div class="slide">
-    <img src="{{ site.baseurl }}/images/itt/slide3.jpg" alt="ITT Lab activity 3">
+    <img src="{{ site.baseurl }}/images/itt/Slide3.jpg">
+  </div>
+
+    <div class="slide">
+    <img src="{{ site.baseurl }}/images/itt/Slide4.jpg">
+  </div>
+
+    <div class="slide">
+    <img src="{{ site.baseurl }}/images/itt/Slide5.jpg" >
   </div>
 </div>
 
@@ -59,3 +67,76 @@ function showSlides() {
   setTimeout(showSlides, 3000);
 }
 </script>
+
+
+<style>
+.lab-members {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 40px 0;
+  flex-wrap: wrap;
+}
+
+.member {
+  text-align: center;
+  max-width: 200px;
+}
+
+.member img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.member-name {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.member-status {
+  font-style: italic;
+  margin: 4px 0;
+}
+
+.member-email {
+  font-size: 0.9em;
+}
+</style>
+
+<h2>Lab Members</h2>
+
+<div class="lab-members">
+
+  <div class="member">
+    <img src="{{ site.baseurl }}/images/members/member1.jpg" alt="Member 1">
+    <div class="member-name">Alice Chen</div>
+    <div class="member-status">Ph.D. Student</div>
+    <div class="member-email">
+      <a href="mailto:alicec@hawaii.edu">alicec@hawaii.edu</a>
+    </div>
+  </div>
+
+  <div class="member">
+    <img src="{{ site.baseurl }}/images/members/member2.jpg" alt="Member 2">
+    <div class="member-name">Brian Kim</div>
+    <div class="member-status">Master’s Student</div>
+    <div class="member-email">
+      <a href="mailto:bkim@hawaii.edu">bkim@hawaii.edu</a>
+    </div>
+  </div>
+
+  <div class="member">
+    <img src="{{ site.baseurl }}/images/members/member3.jpg" alt="Member 3">
+    <div class="member-name">Sophia Lee</div>
+    <div class="member-status">Undergraduate Researcher</div>
+    <div class="member-email">
+      <a href="mailto:sophial@hawaii.edu">sophial@hawaii.edu</a>
+    </div>
+  </div>
+
+</div>
+
+
