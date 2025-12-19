@@ -26,15 +26,13 @@ My current work spans the following areas:
 
 
 <!-- First row: two images side by side -->
-<span style="display:inline-block; margin-right:15px;">
-  <img src='/images/UHM.png' height="100">
-</span>
-<span style="display:inline-block;">
-  <img src='/images/TIM School.png' height="100">
-</span>
+<div style="text-align:center; margin-bottom:15px;">
+  <img src='/images/UHM.png' alt="Xiaofeng Li" height="200" style="margin-right:15px;">
+  <img src='/images/iTT Lab Logo_20250918.png' alt="Research in action" height="200">
+</div>
 
 <!-- Second row: single image -->
-<div style="margin-top:15px;">
+<div style="text-align:center;">
   <img src='/images/iTT Lab Logo_20250918.png' height="100">
 </div>>
 
