@@ -24,20 +24,17 @@ My current work spans the following areas:
 - Micromobilities
 - Traffic signal control
 
-<img src='/images/UHM.png'> 
-<img src='/images/iTT Lab Logo_20250918.png'> 
-<img src='/images/TIM School.png'>
 
 <!-- First row: two images side by side -->
 <span style="display:inline-block; margin-right:15px;">
-  <img src='/images/UHM.png' alt="Xiaofeng Li" width="250">
+  <img src='/images/UHM.png' height="200">
 </span>
 <span style="display:inline-block;">
-  <img src='/images/iTT Lab Logo_20250918.png' alt="Research in action" width="250">
+  <img src='/images/TIM School.png' height="200">
 </span>
 
 <!-- Second row: single image -->
 <div style="margin-top:15px;">
-  <img src='/images/TIM School.png' alt="TIM School" width="250">
+  <img src='/images/iTT Lab Logo_20250918.png' height="200">
 </div>>
 
