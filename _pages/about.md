@@ -24,7 +24,7 @@ My current work spans the following areas:
 - Micromobilities
 - Traffic signal control
 
-<img src='images/TIM School.png'>
+<img src='images/iTT Lab Logo_20250918.png'>
 
 <img src="{{ '/images/UHM.png' | relative_url }}" alt="Xiaofeng Li" width="250">
 <img src="{{ '/images/iTT Lab Logo_20250918.png' | relative_url }}" alt="Research in action" width="250">
