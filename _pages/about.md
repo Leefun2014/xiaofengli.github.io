@@ -34,5 +34,5 @@ My current work spans the following areas:
 <!-- Second row: single image -->
 <div style="text-align:center;">
   <img src='/images/iTT Lab Logo_20250918.png' height="100">
-</div>>
+</div>
 
