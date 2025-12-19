@@ -38,14 +38,4 @@ My current work spans the following areas:
        style="height:50px; max-height:50px;">
 </div>
 
-<!-- First row: two images side by side -->
-<div style="text-align:center; margin-bottom:15px;">
-  <img src='{{ site.baseurl }}/images/UHM.png' height="50" style="margin-right:15px;">
-  <img src='{{ site.baseurl }}/images/TIM School.png' height="50">
-</div>
-
-<!-- Second row: single image -->
-<div style="text-align:center;">
-  <img src='{{ site.baseurl }}/images/iTT Lab Logo_20250918.png' height="50">
-</div>
 
