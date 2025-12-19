@@ -23,3 +23,10 @@ My current work spans the following areas:
 - Traffic estimation
 - Micromobilities
 - Traffic signal control
+
+
+<div class="about-images">
+  <img src="UHM.png" alt="Xiaofeng Li" width="250" style="margin-right: 15px;">
+  <img src="iTT Lab Logo_20250918.png" alt="Research in action" width="250" style="margin-right: 15px;">
+  <img src="TIM School.png" alt="Conference presentation" width="250">
+</div>
