@@ -24,7 +24,7 @@ My current work spans the following areas:
 - Micromobilities
 - Traffic signal control
 
-<img src="{{ site.baseurl }}/images/itt-lab-logo.png">
+<img src="{{ site.baseurl }}/images/iTT Lab Logo_20250918.png">
 
 <!-- First row: two images side by side -->
 <div style="text-align:center; margin-bottom:15px;">
