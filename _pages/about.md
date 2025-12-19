@@ -24,7 +24,11 @@ My current work spans the following areas:
 - Micromobilities
 - Traffic signal control
 
-<img src="{{ site.baseurl }}/images/iTT Lab Logo_20250918.png">
+<div style="text-align:center;">
+  <img src="https://leefun2014.github.io/xiaofengli.github.io/images/UHM.png" height="200" style="margin:10px;">
+  <img src="https://leefun2014.github.io/xiaofengli.github.io/images/iTT%20Lab%20Logo_20250918.png" height="200" style="margin:10px;">
+  <img src="https://leefun2014.github.io/xiaofengli.github.io/images/TIM%20School.png" height="200" style="margin:10px;">
+</div>
 
 <!-- First row: two images side by side -->
 <div style="text-align:center; margin-bottom:15px;">
